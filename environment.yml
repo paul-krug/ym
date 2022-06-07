@@ -3,5 +3,5 @@ dependencies:
   - python=3.9
   - librosa
   - pip:
-    - numpy
+    - numpy=1.21
     - matplotlib
