@@ -1,7 +1,0 @@
-name: ym_env
-dependencies:
-  - python=3.9
-  - librosa
-  - pip:
-    - numpy==1.21
-    - matplotlib
